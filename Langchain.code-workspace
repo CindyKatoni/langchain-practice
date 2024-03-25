@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../Terraform_lessons/Lesson1"
+		},
+		{
+			"path": "../Terraform_lessons/Lesson 3 - Modules & Variables"
+		}
+	],
+	"settings": {}
+}
